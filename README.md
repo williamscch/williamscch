@@ -17,6 +17,7 @@
 <h3 align="center">Declare Variables Not Wars ❌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdavidcch&label=Profile%20views&color=1c1c1c&style=flat" alt="wdavidcch" /> </p>
+
 ### My Statistics
 
 <br/>
