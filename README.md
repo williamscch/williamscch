@@ -13,8 +13,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h1 align="center">wdavidcch</h1>
-<h3 align="center">Declare Variables Not Wars ❌</h3>
+<h1 align="center">Williams David</h1>
+<h3 align="center">Solve the problem first. So write the code💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdavidcch&label=Profile%20views&color=1c1c1c&style=flat" alt="wdavidcch" /> </p>
 
