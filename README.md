@@ -35,17 +35,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p> -->
 
-- 😩 I’m currently working as a DevOps Engineer / Backend
+- 💜 I’m currently preparing myself on Microverse to be a Full Stack Developer.
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/wdavidcch](https://github.com/wdavidcch)
 
--  👯 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc
+<!-- - 👯 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc -->
 
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **david.13.2121@gmail.com**
 
-- ⚡ Fun fact **you can find me on instagram: @wdavidcch**
+- ⚡ Fun fact **you can find me on instagram and twitter as: @wdavidcch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
