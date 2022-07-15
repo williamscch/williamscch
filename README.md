@@ -13,8 +13,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h1 align="center">Williams David</h1>
-<h3 align="center">Solve the problem first. So write the code💡</h3>
+<h1 align="center">Hello There! I'm @wdavidcch</h1>
+<h3 align="center">Execute problems not people ✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdavidcch&label=Profile%20views&color=1c1c1c&style=flat" alt="wdavidcch" /> </p>
 
@@ -23,8 +23,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/wdavidcch/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=codeSTACKr&hide_border=false" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=codeSTACKr&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=codeSTACKr&hide_border=true" />
   </a>
 </p>
 <br>
