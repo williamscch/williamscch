@@ -32,9 +32,9 @@
 
 [![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=dark&hide_border=true)](https://github.com/wdavidcch/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=dark&layout=compact&card_width=100)](https://github.com/wdavidcch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=dark&layout=compact&card_width=1000)](https://github.com/wdavidcch/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p>
 
 - 💜 I’m currently preparing myself on Microverse to be a Full Stack Developer
 
