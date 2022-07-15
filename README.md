@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://github.com/wdavidcch/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=codeSTACKr&hide_border=true" />
   </a>
 </p>
 <br>
