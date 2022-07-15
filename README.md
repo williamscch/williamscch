@@ -32,7 +32,7 @@
 
 [![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fourteen98&custom_title=wdavidcch's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fourteen98/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p> -->
 
@@ -50,7 +50,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhiydeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fourteen98" height="30" width="40" /></a>
+<a href="https://twitter.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wdavidcch" height="30" width="40" /></a>
 <a href="https://instagram.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wdavidcch" height="30" width="40" /></a>
+<a href="https://instagram.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkdin.svg" alt="wdavidcch" height="30" width="40" /></a>
 </p>
 
