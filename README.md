@@ -30,7 +30,7 @@
 <br>
 
 
-[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
+[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=dark&hide_border=true)](https://github.com/wdavidcch/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=dark&layout=compact)](https://github.com/wdavidcch/github-readme-stats)
 
