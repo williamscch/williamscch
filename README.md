@@ -32,6 +32,7 @@
 
 [![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fourteen98&custom_title=wdavidcch's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fourteen98/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=radical)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p> -->
 
@@ -39,7 +40,7 @@
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/wdavidcch](https://github.com/wdavidcch)
 
-<!-- - 👯 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc -->
+<!-- - 🤝 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc -->
 
 - 💬 Ask me about **anything :)**
 
