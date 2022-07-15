@@ -23,8 +23,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/wdavidcch/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=react&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=react&hide_border=true" />
   </a>
 </p>
 <br>
