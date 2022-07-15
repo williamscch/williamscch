@@ -30,28 +30,27 @@
 <br>
 
 
-[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fourteen98&custom_title=wdavidcch's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fourteen98/)
+[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavicch&custom_title=wdavidcch's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&layout=compact)](https://github.com/wdavidcch/github-readme-stats)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdavidcch" alt="wdavidcch" /></a> </p> -->
 
-- 💜 I’m currently preparing myself on Microverse to be a Full Stack Developer.
+- 💜 I’m currently preparing myself on Microverse to be a Full Stack Developer
 
-- 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/wdavidcch](https://github.com/wdavidcch)
+- 👨‍💻 All of my projects (owned and burrowed) are available [here](https://github.com/wdavidcch?tab=repositories)
 
-<!-- - 🤝 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc -->
+- 🤝 I’m looking to collaborate on any project
 
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **david.13.2121@gmail.com**
 
-- ⚡ Fun fact **you can find me on instagram and twitter as: @wdavidcch**
+- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](https://www.linkedin.com/in/williams-colmenares-989a6b151)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wdavidcch" height="30" width="40" /></a>
 <a href="https://instagram.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wdavidcch" height="30" width="40" /></a>
-<a href="https://instagram.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkdin.svg" alt="wdavidcch" height="30" width="40" /></a>
 </p>
 
