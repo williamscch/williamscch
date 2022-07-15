@@ -13,7 +13,7 @@
 <h1 align="center">Hello There! I'm @wdavidcch</h1>
 <h3 align="center">Execute problems not people ✌️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdavidcch&label=Profile%20views&color=1c1c1c&style=flat" alt="wdavidcch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdavidcch&label=Profile%20views&color=blue&style=plastic" alt="wdavidcch" /> </p>
 
 ### My Statistics
 
