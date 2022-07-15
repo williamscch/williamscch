@@ -30,7 +30,7 @@
 <br>
 
 
-[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavicch&custom_title=wdavidcch's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
+[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=codeSTACKr&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&layout=compact)](https://github.com/wdavidcch/github-readme-stats)
 
@@ -40,13 +40,13 @@
 
 - 👨‍💻 All of my projects (owned and burrowed) are available [here](https://github.com/wdavidcch?tab=repositories)
 
-- 🤝 I’m looking to collaborate on any project
+- 🤝 I’m looking to collaborate on **any project**
 
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **david.13.2121@gmail.com**
 
-- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](https://www.linkedin.com/in/williams-colmenares-989a6b151)
+- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](https://www.linkedin.com/in/williams-colmenares-989a6b151)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
