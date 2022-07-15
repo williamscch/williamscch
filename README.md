@@ -23,14 +23,14 @@
 <br/>
 <p align="left">
   <a href="https://github.com/wdavidcch/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=codeSTACKr&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=codeSTACKr&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wdavidcch&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wdavidcch&theme=dark&hide_border=true" />
   </a>
 </p>
 <br>
 
 
-[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=codeSTACKr&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
+[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=wdavidcch&custom_title=wdavidcch's%20Contribution%20Graph&theme=dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/wdavidcch/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavidcch&theme=dark&layout=compact)](https://github.com/wdavidcch/github-readme-stats)
 
