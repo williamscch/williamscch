@@ -48,7 +48,7 @@
 
 - 📫 How to reach me **williamscolmenaresch@gmail.com**
 
-- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](www.linkedin.com/in/williamscolmenaresch)**
+- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](https://www.linkedin.com/in/williamscolmenaresch/)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
