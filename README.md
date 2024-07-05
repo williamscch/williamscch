@@ -26,7 +26,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<h1 align="center">Hello There! I'm @williamscch Full-Stack Developer</h1>
+<h1 align="center">Hello There! I'm @williamscch Front-end Developer</h1>
 <h3 align="center">Execute problems not people ✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
@@ -49,17 +49,15 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamscch" alt="williamscch" /></a> </p> -->
 
-- 💜 I’m currently preparing myself on Microverse to be a Full Stack Developer
-
 - 👨‍💻 All of my projects (owned and burrowed) are available [here](https://github.com/williamscch?tab=repositories)
 
-- 🤝 I’m looking to collaborate on **any project**
+- 🤝 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **williamscolmenaresch@gmail.com**
 
-- ⚡ Fun fact **you can find me on Linkdin following [this link 🔗](https://www.linkedin.com/in/williamscolmenaresch/)**
+- ⚡ Fun fact **you can find me on LinkedIn following [this link 🔗](https://www.linkedin.com/in/williamscolmenaresch/)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
