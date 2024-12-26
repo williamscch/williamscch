@@ -22,7 +22,7 @@
 <h3 align="center">Turning code into engaging digital experiences ✌️</h3>
 <h3 align="center">Front-End Software Engineer | Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
 
 ### My Statistics
 
@@ -34,9 +34,6 @@
   </a>
 </p>
 <br>
-
-
-[![Williams's Activity Graph](https://activity-graph.herokuapp.com/graph?username=williamscch&custom_title=williamscch's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/williamscch/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamscch&theme=react&layout=compact&card_width=1000)](https://github.com/williamscch/github-readme-stats)
 
@@ -53,9 +50,3 @@
 - 📫 How to reach me **williamscolmenaresch@gmail.com**
 
 - ⚡ Fun fact **you can find me on LinkedIn following [this link 🔗](https://www.linkedin.com/in/williamscolmenaresch/)**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wdavidcch" height="30" width="40" /></a>
-</p>
-
