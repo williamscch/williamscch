@@ -18,8 +18,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h1 align="center">Hello There! I'm @williamscch Front-end Developer</h1>
-<h3 align="center">Execute problems not people ✌️</h3>
+<h1 align="center">Hello There! I'm @williamscch</h1>
+<h3 align="center">Turning code into engaging digital experiences ✌️</h3>
+<h3 align="center">Front-End Software Engineer | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
 
@@ -42,6 +43,8 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamscch" alt="williamscch" /></a> </p> -->
 
 - 👨‍💻 All of my projects (owned and burrowed) are available [here](https://github.com/williamscch?tab=repositories)
+  
+- 💻 Check out my portfolio [here](https://williams.vercel.app)
 
 - 🤝 I’m looking to collaborate on **open source projects**
 
@@ -54,6 +57,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wdavidcch" height="30" width="40" /></a>
-<a href="https://instagram.com/wdavidcch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wdavidcch" height="30" width="40" /></a>
 </p>
 
