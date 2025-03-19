@@ -18,9 +18,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h1 align="center">Hello There! I'm @williamscch</h1>
-<h3 align="center">Turning code into engaging digital experiences ✌️</h3>
+<h1 align="center">Hello There! I'm Williams</h1>
 <h3 align="center">Front-End Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Turning code into engaging digital experiences 👨‍💻</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
 
