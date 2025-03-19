@@ -27,7 +27,7 @@
 ### My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/williamscch/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=williamscch&show_icons=true&theme=react&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=williamscch&theme=react&hide_border=true" />
