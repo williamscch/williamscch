@@ -20,7 +20,6 @@
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Payload](https://img.shields.io/badge/Payload-000000?style=for-the-badge&logo=payload&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
-![Algolia](https://img.shields.io/badge/Algolia-2478CC?style=for-the-badge&logo=algolia&logoColor=white)
 
 <h1 align="center">Hey There! I'm Williams</h1>
 <h3 align="center">Front-End Software Engineer | Full-Stack Developer</h3>
