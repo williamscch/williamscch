@@ -22,7 +22,7 @@
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 
 <h1 align="center">Hey There! I'm Williams</h1>
-<h3 align="center">Front-End Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <h3 align="center">Turning code into engaging digital experiences 👨‍💻</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
