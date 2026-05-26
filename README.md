@@ -24,20 +24,6 @@
 <h1 align="center">Hey There! I'm Williams</h1>
 <h3 align="center">Software Engineer</h3>
 <h3 align="center">Turning code into engaging digital experiences 👨‍💻</h3>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=williamscch&label=Profile%20views&color=blue&style=plastic" alt="williamscch" /> </p>
-
-### My Statistics
-
-<br/>
-<p align="center">
-  <a href="https://github.com/williamscch/">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=williamscch&show_icons=true&theme=react&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamscch&theme=react&layout=compact&card_width=1000)](https://github.com/williamscch/github-readme-stats)
   
 - 💻 Check out my portfolio [here](https://williams.vercel.app)
 
