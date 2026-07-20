@@ -1,36 +1,73 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="center">@ williamscch</h1>
 
-### 🛠 &nbsp;Tech Stack
+<h3 align="center">Senior Software Engineer at APPLY</h3> 
+<p align="center"> 4+ years building performant, scalable frontends and the systems behind them — <br/> specialized in React/Next.js, with full-stack range across the modern web. </p>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![Shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Payload](https://img.shields.io/badge/Payload-000000?style=for-the-badge&logo=payload&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+<p align="center">
+  <a href="https://williams.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/williamscolmenaresch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:williamscolmenaresch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<h1 align="center">Hey There! I'm Williams</h1>
-<h3 align="center">Software Engineer</h3>
-<h3 align="center">Turning code into engaging digital experiences 👨‍💻</h3>
-  
-- 💻 Check out my portfolio [here](https://williams.vercel.app)
+---
 
-- 🤝 I’m looking to collaborate on **open source projects**
+### 💼 Experience
 
-- 💬 Ask me about **anything :)**
+- **Senior Software Engineer** — APPLY — 4+ years, working across multiple client projects
+- **Previously:** Yuga Labs · tokenproof · Crazy Imagine Software
+- Roles spanning Software Engineer → Frontend Software Engineer → Fullstack Developer
 
-- 📫 How to reach me **williamscolmenaresch@gmail.com**
+### 🎯 Focus Areas
 
-- 👨‍💻 **You can find me on LinkedIn following [this link 🔗](https://www.linkedin.com/in/williamscolmenaresch/)**
+- 🖥️ **Frontend architecture** with React / Next.js — my core specialty for 4+ years
+- 🌱 Expanding into **Vue / Nuxt**, and **Svelte & SvelteKit**
+- 📦 Headless CMS integrations — Payload, Contentful, Contentstack
+- 🔍 Search & discovery with **Algolia**, component systems with **Storybook**
+- 🛠️ Full-stack capable — Node.js, Express, MongoDB, PostgreSQL
+- ☁️ Comfortable deploying & scaling on Vercel, GCP, and Firebase
+- 🤖 Integrating AI tooling into real product workflows
+
+### 🧰 Tech Stack
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+**Styling & UI**
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+
+**CMS & Content**
+
+<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" /> <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" /> <img src="https://img.shields.io/badge/Contentstack-6236FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Amplience-000000?style=for-the-badge&logoColor=white" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Tools, Cloud & Services**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=williamscch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamscch&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  🤝 Open to collaborating on <strong>open source projects</strong> &nbsp;|&nbsp;
+  💬 Ask me about <strong>frontend architecture, CMS integrations, or AI-assisted workflows</strong>
+</p>
+
+<p align="center">
+  📫 <a href="mailto:williamscolmenaresch@gmail.com">williamscolmenaresch@gmail.com</a> &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/williamscolmenaresch">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://williams.vercel.app">Portfolio</a>
+</p>
