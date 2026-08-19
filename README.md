@@ -1,7 +1,7 @@
 <h1 align="center">williamscch</h1>
 
 <h3 align="center">Senior Software Engineer at @ APPLY</h3> 
-<p align="center"> 4+ years building performant, scalable frontends and the systems behind them — <br/> specialized in React/Next.js, with full-stack range across the modern web. </p>
+<p align="center"> Experienced in building performant, scalable frontends and the systems behind them — <br/> specialized in React/Next.js, with a full-stack range across the modern web and TypeScript technologies. </p>
 
 <p align="center">
   <a href="https://williams.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -13,13 +13,13 @@
 
 ### 💼 Experience
 
-- **Senior Software Engineer** — APPLY — 4+ years, working across multiple client projects
+- **Senior Software Engineer** — APPLY - working across multiple client projects
 - **Previously:** Yuga Labs · tokenproof · Crazy Imagine Software
 - Roles spanning Software Engineer → Frontend Software Engineer → Fullstack Developer
 
 ### 🎯 Focus Areas
 
-- 🖥️ **Frontend architecture** with React / Next.js — my core specialty for 4+ years
+- 🖥️ **Frontend architecture** with React / Next.js — my core specialty
 - 🌱 Expanding into **Vue / Nuxt**, and **Svelte & SvelteKit**
 - 📦 Headless CMS integrations — Payload, Contentful, Contentstack
 - 🔍 Search & discovery with **Algolia**, component systems with **Storybook**
